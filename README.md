@@ -1,7 +1,9 @@
-ANDERSON DOS SANTOS BARBOSA
-Desenvolvedor Back End
-Itapevi - SP
-RESUMO
+## ANDERSON DOS SANTOS BARBOSA
+## Desenvolvedor Back End
+## Itapevi - SP
+
+
+### RESUMO
 Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clássico, ASP.NET, C#, NET.Core, Node.js, VB.Net, Java Script e Jquery. Banco de Dados não relacional em Neo4j e Mongo DB. Banco relacionais como SQL Server, ORACLE, Postgre e MySql. Atuando no desenvolvimento de APIs REST, Micro Serviços, escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, DDD, POO, modelagem de Banco de Dados, Regras de Negocio, Criação e manutenção de Procedures e Processamento de Filas (Service Bus e RabbitMQ), plataforma Azure.  Atuando nos seguimentos de Logística, Seguro Viagem, Transportes, Gestão de Planos de Saúde. ARP de gerenciamento de Shoppings Centers e Agencia de Publicidade. Disponível para início imediato em trabalho Remoto e Hibrido.
 
 GITHUB: https://github.com/AndersonSBarbosa
