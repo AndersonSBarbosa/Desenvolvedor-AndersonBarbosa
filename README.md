@@ -1,68 +1,120 @@
-# Projeto Procurando Apartamento
+ANDERSON DOS SANTOS BARBOSA
+Desenvolvedor Back End
+Itapevi - SP
+RESUMO
+Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clássico, ASP.NET, C#, NET.Core, Node.js, VB.Net, Java Script e Jquery. Banco de Dados não relacional em Neo4j e Mongo DB. Banco relacionais como SQL Server, ORACLE, Postgre e MySql. Atuando no desenvolvimento de APIs REST, Micro Serviços, escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, DDD, POO, modelagem de Banco de Dados, Regras de Negocio, Criação e manutenção de Procedures e Processamento de Filas (Service Bus e RabbitMQ), plataforma Azure.  Atuando nos seguimentos de Logística, Seguro Viagem, Transportes, Gestão de Planos de Saúde. ARP de gerenciamento de Shoppings Centers e Agencia de Publicidade. Disponível para início imediato em trabalho Remoto e Hibrido.
 
-Você provê um serviço por web de busca de apartamentos para locatários. Neste serviço, neste lugar específico da cidade mostrado no mapa abaixo, estão disponíveis diversos apartamentos em cada uma das quadras. As quadras, além de conter os apartamentos, mostram onde a rua começa e onde termina já que a quadra 1 é o início da rua e quadra (n) é mais próximo a seu final. O mapa não determina, porém, o sentido de pedestres e carros já que é mão dupla. É disponibilizada para esse serviço uma tabela da relação de serviços disponíveis em cada uma das quadras: academia, escola e mercado. Os locatários são pessoas muito ocupadas e trabalham remotamente. Assim, é muito importante que eles morem em um lugar com menor deslocamento possível. O serviço deve, com base na indicação do locatário em necessidades de serviços, buscar um apartamento dentro da quadra que proporcione menor deslocamento para seu dia a dia. 
+GITHUB: https://github.com/AndersonSBarbosa
+E-mail: andersonbarbosadeveloper@gmail.com
+Tel.: +55 11 98064-2782
 
-![image](https://user-images.githubusercontent.com/112395489/187196886-8818cda2-395c-4968-8831-645211fb303b.png)
+EXPERIÊNCIA PROFISSIONAL
+Coris Brasil – 01/2023 a 07/2024 
+Desenvolvedor Backend Sênior
+Empresa no Ramo de Seguros Viagens.
+• Manutenção sistemas Web ASP Clássico e C#. 
+• Criação/manutenção de APIs (C#). 
+• Modelagem do Banco de Dados - SQL Server. 
+• Ambiente Azure. 
+• Implementação e Criação de Micro Serviços. 
+• Implementação de pagamento PIX. 
+• Implementação na integração do PipeDrive.
 
-A tabela mostra a relação de “ApartamentosDisponiveis” e os estabelecimentos existentes na quadra. Você deve usá-la para tomar a decisão sobre a melhor escolha de imóvel para seu cliente.
+Tecnologias Usadas: Docker | C#| ASP Classico | ASP.NET | NET.CORE | SQL Server | mongoBD | Git | Bootstrap | Scrum | TDD  | BDD | DDD | Service Bus | JIRA | DevOps
 
-![image](https://user-images.githubusercontent.com/112395489/187196932-38fe6a55-7e7e-4a26-a463-3a3e015335dc.png)
+Cast Group / SEBRAE – 08/2022 a 01/2023
+Desenvolvedor Backend
+Serviço Brasileiro de Apoio às Micro e Pequenas Empresas.
+• Manutenção sistemas Web VB.Net e C#.
+• Modelagem do Banco de Dados - SQL Server.
+• Manutenção de Procedures.
+• Manutenção do Sistema FAMPE.
 
-A escolha do apartamento vai depender de:
-1.	Ter um apartamento disponível na quadra;
-2.	Andar o mínimo possível para encontrar um estabelecimento de seu interesse;
-3.	A Prioridade de estabelecimentos depende da ordem de entrada de dados. Então se a entrada de dados for ACADEMIA e ESCOLA por exemplo, deve-se priorizar apartamentos mais próximos de ACADEMIAS e depois de ESCOLAS;
-4.	O critério de desempate em caso de mais de uma quadra atender aos requisitos é escolher a quadra mais próxima ao final da rua.  
+Tecnologias Usadas: C#| VB | VB.NET | NET.CORE | SQL Server | Git Lab.
 
-## Exemplos:
+Lógical Minds/Motz /Grupo Votorantin – 03/2022 a 08/2022
+Desenvolvedor Backend Pleno
+Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
+• Criação/manutenção de APIs (C#) .NET Core. 
+• Modelagem do Banco de Dados - SQL Server / Mongo DB. 
+• Regras de negócios para Transportes e Fretes. 
+• Integrações de Sistemas com transportadoras. 
+• Integração com a Idwall.
 
-Considerando os testes abaixo, os resultados seriam os seguintes: 
+Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | C# | .NET | .CORE | Git | GitHub | MongoDB | DevOps | Azure
 
-- ['ACADEMIA', 'MERCADO'] 
-    - O resultado deve ser QUADRA 1, pois na quadra 1 tem apartamento disponível e os dois estabelecimentos de seu interesse;
+Lógical Minds/Freto /Endered – 02/2020 a 03/2022
+Desenvolvedor Backend Pleno
+Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
+• Manutenção sistemas Web (BackOffice e Shipper). 
+• Criação/manutenção de APIs (C#). 
+• Modelagem do Banco de Dados - SQL Server / Mongo DB. 
+• Regras de negócios para Transportes e Fretes. 
+• Integrações de Sistemas com transportadoras. 
+• Integração com a Idwall. 
+• Processamentos de filas no Rabbit. 
+• Microserviços em .NET Core
+Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | C# | .NET | .CORE | Git | GitHub | MongoDB | DevOps | Azure
 
-- ['ACADEMIA'] 
-    - O resultado deve ser QUADRA 2, pois na quadra 2 tem apartamento disponível, tem academia e está mais próximo do final da rua;
+Talent Four/ Qualicorp – 02/2020 a 03/2022
+Desenvolvedor Backend Pleno
+Gerenciamento de Planos de Saúde.
+• Manutenção sistemas e módulos Qualitech. 
+• Criação/manutenção de Apis (node.js). 
+• Modelagem do Banco de Dados - SQL Server/ Oracle / Neo4J. 
+• Regras de negócios para Gestão de planos e Saúde, sistemas Jurídico. 
+• Trabalhar com serviços AWS
 
-## O que entregar:
-1.	Algoritmo de resolução (Novo método no Controller Apartamento) Exemplo a seguir:
-![image](https://user-images.githubusercontent.com/90634328/187257056-3d55d9e0-11c2-416e-9c07-2eba82665fcf.png)
+Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | Node.JS| Neo4J | Oracle | Git | GitHub | MongoDB | AWS S3 | .VUE
 
-    - A entrada de dados será um Array de String, e o return do Método será uma String. Ex: "Quadra 5";
-    - Qual seria o resultado caso as entradas sejam:
-        - ['ESCOLA', 'ACADEMIA'];
-        - ['ESCOLA', 'MERCADO', 'ACADEMIA'];
+Grupo Ease – 06/2018 a 03/2019
+Desenvolvedor Backend Pleno
+Sistemas de gestão ERP, plataformas de comunicação e painéis BI para diversos segmentos, como shopping centers, marinas e aeroportos.
+• Manutenção ao software ERP Ease Controller.net.
+• Criação/manutenção de Relatórios - Crystal Reports.
+• Modelagem do Banco de Dados - SQL Server. 
+• Regras de negócios para Gestão de Shopping Centers. 
+• VB.NET (Interface Infragistics).
 
-2.	Criar uma interface gráfica (Preferencialmente em Angular) que permita selecionar as opções e devolva o resultado na mesma tela;
-   
-3.	Criar testes unitários baseado nos exemplos passados;
-![image](https://user-images.githubusercontent.com/90634328/187255894-6ff4700d-0e97-4435-af29-a615925c6d20.png)
+Tecnologias Usadas: SQL SERVER | VB.NET | Crystal Reports.
+
+Grupo RAI – 06/2012 a 05/2018
+Desenvolvedor Backend
+Gerenciamento de Planos de Saúde.
+• Desenvolver sites.
+• Desenvolver sistemas de customização de peças para clientes.
+• Desenvolvimento de Extranet.
+• Modelagem do Banco de Dados.
+• Regras de negócios.
+• Desenvolvimento de painel de controle. 
+
+Tecnologias Usadas: SQL SERVER | HTML | CSS | Java Script | ASP | ASP.NET | C# | Git | TFS | Ajax | BootStrap | MYSQL | MVC
+	
 
 
-## Instruções Gerais
-- Você deverá fazer:
- - Fork desse projeto em um repositório Privado, no Seu perfil, com o Titulo "Desenvolvedor-Positivo";
-    - ![image](https://user-images.githubusercontent.com/90634328/187271331-e6582814-f28b-47d8-a940-f39d76a1f62d.png)
-    -![image](https://user-images.githubusercontent.com/90634328/187272263-00e338ce-eb0c-474f-ab72-6c730060df56.png)
 
-- Resolvê-lo e subir ao seu repositório Privado
-- Os acessos devem ser dados para o usuário 'ctomasini' apenas;
-- O README.md deverá ser o seu curriculo, com a adequada formatação.
 
-## Requisitos de software para executar o projeto
-- net6.0 https://dotnet.microsoft.com/en-us/download/dotnet/6.0
-- Visual Studio 2022 (https://visualstudio.microsoft.com/pt-br/vs/) ou Visual Studio Code (https://code.visualstudio.com/)
 
-## Comandos
-```{.cs}
-dotnet restore ProcurandoApartamento.sln
-```
-```{.cs}
-dotnet build ProcurandoApartamento.sln
-```
-```{.cs}
-dotnet watch run --project src\ProcurandoApartamento\ProcurandoApartamento.csproj
-```
-```{.cs}
-dotnet test test\ProcurandoApartamento.Test\ProcurandoApartamento.Test.csproj
-```
+EDUCAÇÃO / FORMAÇÃO /CURSOS /  IDIOMAS
+
+Técnico em Informática - ITB – Instituto Técnico de Barueri 2001 – 2003.
+Computação Gráfica - SAGA. - 2009– 2010
+Ciência da Computação – UNIESP – 2007 – 2012
+POO | Programação Orientada a Objeto: Impacta – 2008
+Certificação Neo4J - 2019
+Inglês CNA - Up Time - 2015-2022
+Udemy - SLQ / Xamarin / Flask / Python / Node.Js / GIT  Versionamento / Metodologias Ágil – Scrum / Docker / React Native / GO / VB.net
+Inglês – Técnico, para Leitura e escrita
+Português – Fluente
+
+COMPETÊNCIAS TÉCNICAS
+Paradigmas: Orientação a Objetos, Estruturado e Imperativo.
+Linguagens: C#, VB.NET, ASP, ASP.NET, HTML5, CSS3, Java Script / Node.js, SQL.
+Bibliotecas/Frameworks: .NET, React, React Native, Bootstrap e JQuery.
+IDE e Softwares: Visual Studio, MS SQL Server Management Studio, VS Code, Postman, Postgre Admin, MySQL Workbench, NPM e Node.JS.
+Banco de Dados: SQL Server, MySQL, Oracle, MongoDB, PostgreSQL e Neo4J.
+Servidores de Automação: Azure.
+SO: Windows.
+Controle de Versão: Git e TFS
+Ferramentas Ágeis: Kanban e SCRUM
+Mensageria: RabbitMQ e Service Bus

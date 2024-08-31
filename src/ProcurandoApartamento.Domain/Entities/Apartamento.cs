@@ -33,7 +33,7 @@ namespace ProcurandoApartamento.Domain
         {
             return "Apartamento{" +
                     $"ID='{Id}'" +
-                    $", Quadra='{Quadra}'" +
+                    $", Quadra={Quadra}" +
                     $", ApartamentoDisponivel='{ApartamentoDisponivel}'" +
                     $", Estabelecimento='{Estabelecimento}'" +
                     $", EstabelecimentoExiste='{EstabelecimentoExiste}'" +

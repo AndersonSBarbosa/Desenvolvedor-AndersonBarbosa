@@ -23,5 +23,7 @@ namespace ProcurandoApartamento.Domain.Repositories.Interfaces
         TEntity Attach(TEntity entity);
         TEntity Update(TEntity entity);
         bool UpdateRange(params TEntity[] entities);
+        Task<List<TEntity>> GetAllAsync();
+        Task<List<TEntity>> FindQuadra(int Quadra);
     }
 }

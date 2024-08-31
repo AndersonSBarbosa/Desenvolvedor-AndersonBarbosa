@@ -8,5 +8,6 @@ namespace ProcurandoApartamento.Domain
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public TKey Id { get; set; }
+        public int Quadra { get; set; }
     }
 }

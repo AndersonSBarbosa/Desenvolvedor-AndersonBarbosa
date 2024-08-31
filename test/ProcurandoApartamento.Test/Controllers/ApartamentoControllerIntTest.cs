@@ -11,6 +11,11 @@ using ProcurandoApartamento.Test.Setup;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json.Linq;
 using Xunit;
+using ProcurandoApartamento.Domain.Entities;
+using System.Text.Json;
+using Microsoft.AspNetCore.Mvc;
+using ProcurandoApartamento.Domain.Services.Interfaces;
+using LanguageExt.Pipes;
 
 namespace ProcurandoApartamento.Test.Controllers
 {
@@ -42,6 +47,9 @@ namespace ProcurandoApartamento.Test.Controllers
         private readonly AppWebApplicationFactory<TestStartup> _factory;
         private readonly HttpClient _client;
         private readonly IApartamentoRepository _apartamentoRepository;
+
+        private readonly IApartamentoService _apartamentoService;
+
 
         private Apartamento _apartamento;
 
@@ -220,6 +228,20 @@ namespace ProcurandoApartamento.Test.Controllers
             apartamento1.Should().NotBe(apartamento2);
             apartamento1.Id = 0;
             apartamento1.Should().NotBe(apartamento2);
+        }
+
+
+        [Fact]
+        public void MelhorApartamento()
+        {
+            string jsonString = "{ \"estabelecimento\": [ \"ACADEMIA\", \"MERCADO\"] }";
+
+            Busca busca = JsonSerializer.Deserialize<Busca>(jsonString);
+            var estabelecimentos = busca.Estabelecimento;
+
+            var respostaAPI = _apartamentoService.MelhorApartamento(busca);
+
+            Assert.IsType<NoContentResult>(respostaAPI);
         }
     }
 }

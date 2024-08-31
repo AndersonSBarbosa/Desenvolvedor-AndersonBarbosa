@@ -119,5 +119,31 @@ namespace ProcurandoApartamento.Infrastructure.Data.Repositories
 
             dbset.RemoveRange(filteredManyToManyData);
         }
+
+
+        public virtual async Task<List<TEntity>> GetAllAsync()
+        {
+            try
+            {
+                return await _context.Set<TEntity>()
+                     .AsNoTracking()
+                     .ToListAsync();
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
+
+        }
+
+
+        public async Task<List<TEntity>> FindQuadra(int Quadra)
+        {
+            var itens = await _context.Set<TEntity>().Where(r => r.Quadra == Quadra).AsNoTracking().ToListAsync();
+            return itens;
+        }
+
+
     }
 }

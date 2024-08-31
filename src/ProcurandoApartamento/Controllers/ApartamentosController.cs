@@ -14,6 +14,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
+using ProcurandoApartamento.Domain.Entities;
 
 namespace ProcurandoApartamento.Controllers
 {
@@ -69,5 +70,17 @@ namespace ProcurandoApartamento.Controllers
             await _apartamentoService.Delete(id);
             return NoContent().WithHeaders(HeaderUtil.CreateEntityDeletionAlert(EntityName, id.ToString()));
         }
+
+
+        [HttpPost]
+        [ValidateModel]
+        [Route("MelhorApartamento")]
+        public async Task<ActionResult<Apartamento>> MelhorApartamento([FromBody] Busca busca)
+        {
+           var Apartamento = await _apartamentoService.MelhorApartamento(busca);
+            return Apartamento;
+        }
+
+
     }
 }

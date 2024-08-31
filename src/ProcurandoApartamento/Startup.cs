@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
+using Microsoft.OpenApi.Models;
 
 [assembly: ApiController]
 
@@ -44,6 +45,12 @@ namespace ProcurandoApartamento
                 .AddServiceModule();
 
 
+            services.AddControllers();
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Busca Apartamentos", Version = "v1" });
+            });
+
         }
 
 
@@ -51,6 +58,25 @@ namespace ProcurandoApartamento
         public virtual void Configure(IApplicationBuilder app, IHostEnvironment env, IServiceProvider serviceProvider,
             ApplicationDatabaseContext context, IOptions<SecuritySettings> securitySettingsOptions)
         {
+
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+                app.UseSwagger();
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Busca Apartamentos v1"));
+            }
+
+            app.UseHttpsRedirection();
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
+
             var securitySettings = securitySettingsOptions.Value;
             app
                 .UseApplicationSecurity(securitySettings)

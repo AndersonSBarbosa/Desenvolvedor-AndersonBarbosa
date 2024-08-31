@@ -13,9 +13,11 @@ namespace ProcurandoApartamento.Infrastructure.Data.Repositories
 {
     public class ApartamentoRepository : GenericRepository<Apartamento, long>, IApartamentoRepository
     {
+        
         public ApartamentoRepository(IUnitOfWork context) : base(context)
         {
         }
+
 
     }
 }
