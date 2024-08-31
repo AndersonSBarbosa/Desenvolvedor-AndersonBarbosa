@@ -2,7 +2,6 @@
 ### Desenvolvedor Back End
 ### Itapevi - SP
 
-
 ## RESUMO
 Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clássico, ASP.NET, C#, NET.Core, Node.js, VB.Net, Java Script e Jquery. Banco de Dados não relacional em Neo4j e Mongo DB. Banco relacionais como SQL Server, ORACLE, Postgre e MySql. Atuando no desenvolvimento de APIs REST, Micro Serviços, escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, DDD, POO, modelagem de Banco de Dados, Regras de Negocio, Criação e manutenção de Procedures e Processamento de Filas (Service Bus e RabbitMQ), plataforma Azure.  Atuando nos seguimentos de Logística, Seguro Viagem, Transportes, Gestão de Planos de Saúde. ARP de gerenciamento de Shoppings Centers e Agencia de Publicidade. Disponível para início imediato em trabalho Remoto e Hibrido.
 
@@ -12,9 +11,9 @@ Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clá
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-Coris Brasil – 01/2023 a 07/2024 
-Desenvolvedor Backend Sênior
-Empresa no Ramo de Seguros Viagens.
+## Coris Brasil – 01/2023 a 07/2024 
+ Desenvolvedor Backend Sênior
+ Empresa no Ramo de Seguros Viagens.
 
 ##### • Manutenção sistemas Web ASP Clássico e C#. 
 ##### • Criação/manutenção de APIs (C#). 
@@ -26,11 +25,9 @@ Empresa no Ramo de Seguros Viagens.
 
 #### Tecnologias Usadas: Docker | C#| ASP Classico | ASP.NET | NET.CORE | SQL Server | mongoBD | Git | Bootstrap | Scrum | TDD  | BDD | DDD | Service Bus | JIRA | DevOps
 
-Cast Group / SEBRAE – 08/2022 a 01/2023
-
-Desenvolvedor Backend
-
-Serviço Brasileiro de Apoio às Micro e Pequenas Empresas.
+## Cast Group / SEBRAE – 08/2022 a 01/2023
+ Desenvolvedor Backend
+ Serviço Brasileiro de Apoio às Micro e Pequenas Empresas.
 
 ##### • Manutenção sistemas Web VB.Net e C#.
 ##### • Modelagem do Banco de Dados - SQL Server.
@@ -39,11 +36,9 @@ Serviço Brasileiro de Apoio às Micro e Pequenas Empresas.
 
 #### Tecnologias Usadas: C#| VB | VB.NET | NET.CORE | SQL Server | Git Lab.
 
-Lógical Minds/Motz /Grupo Votorantin – 03/2022 a 08/2022
-
-Desenvolvedor Backend Pleno
-
-Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
+## Lógical Minds/Motz /Grupo Votorantin – 03/2022 a 08/2022
+ Desenvolvedor Backend Pleno
+ Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
 
 ##### • Criação/manutenção de APIs (C#) .NET Core. 
 ##### • Modelagem do Banco de Dados - SQL Server / Mongo DB. 
@@ -53,11 +48,9 @@ Transportadora digital que aproxima embarcadores, transportadores e caminhoneiro
 
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | C# | .NET | .CORE | Git | GitHub | MongoDB | DevOps | Azure
 
-Lógical Minds/Freto /Endered – 02/2020 a 03/2022
-
-Desenvolvedor Backend Pleno
-
-Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
+## Lógical Minds/Freto /Endered – 02/2020 a 03/2022
+ Desenvolvedor Backend Pleno
+ Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
 
 ##### • Manutenção sistemas Web (BackOffice e Shipper). 
 ##### • Criação/manutenção de APIs (C#). 
@@ -70,11 +63,9 @@ Transportadora digital que aproxima embarcadores, transportadores e caminhoneiro
 
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | C# | .NET | .CORE | Git | GitHub | MongoDB | DevOps | Azure
 
-Talent Four/ Qualicorp – 02/2020 a 03/2022
-
-Desenvolvedor Backend Pleno
-
-Gerenciamento de Planos de Saúde.
+## Talent Four/ Qualicorp – 02/2020 a 03/2022
+### Desenvolvedor Backend Pleno
+### Gerenciamento de Planos de Saúde.
 
 ##### • Manutenção sistemas e módulos Qualitech. 
 ##### • Criação/manutenção de Apis (node.js). 
@@ -84,11 +75,9 @@ Gerenciamento de Planos de Saúde.
 
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | Node.JS| Neo4J | Oracle | Git | GitHub | MongoDB | AWS S3 | .VUE
 
-Grupo Ease – 06/2018 a 03/2019
-
-Desenvolvedor Backend Pleno
-
-Sistemas de gestão ERP, plataformas de comunicação e painéis BI para diversos segmentos, como shopping centers, marinas e aeroportos.
+## Grupo Ease – 06/2018 a 03/2019
+ Desenvolvedor Backend Pleno
+ Sistemas de gestão ERP, plataformas de comunicação e painéis BI para diversos segmentos, como shopping centers, marinas e aeroportos.
 
 ##### • Manutenção ao software ERP Ease Controller.net.
 ##### • Criação/manutenção de Relatórios - Crystal Reports.
@@ -99,8 +88,8 @@ Sistemas de gestão ERP, plataformas de comunicação e painéis BI para diverso
 #### Tecnologias Usadas: SQL SERVER | VB.NET | Crystal Reports.
 
 ## Grupo RAI – 06/2012 a 05/2018
-### Desenvolvedor Backend
-### Agencia de Publicidade.
+ Desenvolvedor Backend
+ Agencia de Publicidade.
 
 ##### • Desenvolver sites.
 ##### • Desenvolver sistemas de customização de peças para clientes.
