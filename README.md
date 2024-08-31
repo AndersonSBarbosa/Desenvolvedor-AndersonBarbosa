@@ -18,19 +18,22 @@ Desenvolvedor Backend Sênior
 
 Empresa no Ramo de Seguros Viagens.
 
-• Manutenção sistemas Web ASP Clássico e C#. 
-• Criação/manutenção de APIs (C#). 
-• Modelagem do Banco de Dados - SQL Server. 
-• Ambiente Azure. 
-• Implementação e Criação de Micro Serviços. 
-• Implementação de pagamento PIX. 
-• Implementação na integração do PipeDrive.
+##### • Manutenção sistemas Web ASP Clássico e C#. 
+##### • Criação/manutenção de APIs (C#). 
+##### • Modelagem do Banco de Dados - SQL Server. 
+##### • Ambiente Azure. 
+##### • Implementação e Criação de Micro Serviços. 
+##### • Implementação de pagamento PIX. 
+##### • Implementação na integração do PipeDrive.
 
 #### Tecnologias Usadas: Docker | C#| ASP Classico | ASP.NET | NET.CORE | SQL Server | mongoBD | Git | Bootstrap | Scrum | TDD  | BDD | DDD | Service Bus | JIRA | DevOps
 
 Cast Group / SEBRAE – 08/2022 a 01/2023
+
 Desenvolvedor Backend
+
 Serviço Brasileiro de Apoio às Micro e Pequenas Empresas.
+
 • Manutenção sistemas Web VB.Net e C#.
 • Modelagem do Banco de Dados - SQL Server.
 • Manutenção de Procedures.
@@ -39,8 +42,11 @@ Serviço Brasileiro de Apoio às Micro e Pequenas Empresas.
 #### Tecnologias Usadas: C#| VB | VB.NET | NET.CORE | SQL Server | Git Lab.
 
 Lógical Minds/Motz /Grupo Votorantin – 03/2022 a 08/2022
+
 Desenvolvedor Backend Pleno
+
 Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
+
 • Criação/manutenção de APIs (C#) .NET Core. 
 • Modelagem do Banco de Dados - SQL Server / Mongo DB. 
 • Regras de negócios para Transportes e Fretes. 
@@ -50,8 +56,11 @@ Transportadora digital que aproxima embarcadores, transportadores e caminhoneiro
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | C# | .NET | .CORE | Git | GitHub | MongoDB | DevOps | Azure
 
 Lógical Minds/Freto /Endered – 02/2020 a 03/2022
+
 Desenvolvedor Backend Pleno
+
 Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
+
 • Manutenção sistemas Web (BackOffice e Shipper). 
 • Criação/manutenção de APIs (C#). 
 • Modelagem do Banco de Dados - SQL Server / Mongo DB. 
@@ -64,8 +73,11 @@ Transportadora digital que aproxima embarcadores, transportadores e caminhoneiro
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | C# | .NET | .CORE | Git | GitHub | MongoDB | DevOps | Azure
 
 Talent Four/ Qualicorp – 02/2020 a 03/2022
+
 Desenvolvedor Backend Pleno
+
 Gerenciamento de Planos de Saúde.
+
 • Manutenção sistemas e módulos Qualitech. 
 • Criação/manutenção de Apis (node.js). 
 • Modelagem do Banco de Dados - SQL Server/ Oracle / Neo4J. 
@@ -75,8 +87,11 @@ Gerenciamento de Planos de Saúde.
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | Node.JS| Neo4J | Oracle | Git | GitHub | MongoDB | AWS S3 | .VUE
 
 Grupo Ease – 06/2018 a 03/2019
+
 Desenvolvedor Backend Pleno
+
 Sistemas de gestão ERP, plataformas de comunicação e painéis BI para diversos segmentos, como shopping centers, marinas e aeroportos.
+
 • Manutenção ao software ERP Ease Controller.net.
 • Criação/manutenção de Relatórios - Crystal Reports.
 • Modelagem do Banco de Dados - SQL Server. 
@@ -86,8 +101,11 @@ Sistemas de gestão ERP, plataformas de comunicação e painéis BI para diverso
 #### Tecnologias Usadas: SQL SERVER | VB.NET | Crystal Reports.
 
 Grupo RAI – 06/2012 a 05/2018
+
 Desenvolvedor Backend
-Gerenciamento de Planos de Saúde.
+
+Agencia de Publicidade.
+
 • Desenvolver sites.
 • Desenvolver sistemas de customização de peças para clientes.
 • Desenvolvimento de Extranet.
@@ -101,13 +119,13 @@ Gerenciamento de Planos de Saúde.
 
 # EDUCAÇÃO / FORMAÇÃO /CURSOS /  IDIOMAS
 
-## -Técnico em Informática - ITB – Instituto Técnico de Barueri 2001 – 2003.
-## -Computação Gráfica - SAGA. - 2009– 2010
-## -Ciência da Computação – UNIESP – 2007 – 2012
-## -POO | Programação Orientada a Objeto: Impacta – 2008
-## -Certificação Neo4J - 2019
-## -Inglês CNA - Up Time - 2015-2022
-## -Udemy - SLQ / Xamarin / Flask / Python / Node.Js / GIT  Versionamento / Metodologias Ágil – Scrum / Docker / React Native / GO / VB.net
+#### -Técnico em Informática - ITB – Instituto Técnico de Barueri 2001 – 2003.
+#### -Computação Gráfica - SAGA. - 2009– 2010
+#### -Ciência da Computação – UNIESP – 2007 – 2012
+#### -POO | Programação Orientada a Objeto: Impacta – 2008
+#### -Certificação Neo4J - 2019
+#### -Inglês CNA - Up Time - 2015-2022
+#### -Udemy - SLQ / Xamarin / Flask / Python / Node.Js / GIT  Versionamento / Metodologias Ágil – Scrum / Docker / React Native / GO / VB.net
 
 #### - Inglês – Técnico, para Leitura e escrita
 #### - Português – Fluente
