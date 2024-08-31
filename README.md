@@ -32,10 +32,10 @@ Desenvolvedor Backend
 
 Serviço Brasileiro de Apoio às Micro e Pequenas Empresas.
 
-• Manutenção sistemas Web VB.Net e C#.
-• Modelagem do Banco de Dados - SQL Server.
-• Manutenção de Procedures.
-• Manutenção do Sistema FAMPE.
+##### • Manutenção sistemas Web VB.Net e C#.
+##### • Modelagem do Banco de Dados - SQL Server.
+##### • Manutenção de Procedures.
+##### • Manutenção do Sistema FAMPE.
 
 #### Tecnologias Usadas: C#| VB | VB.NET | NET.CORE | SQL Server | Git Lab.
 
@@ -45,11 +45,11 @@ Desenvolvedor Backend Pleno
 
 Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
 
-• Criação/manutenção de APIs (C#) .NET Core. 
-• Modelagem do Banco de Dados - SQL Server / Mongo DB. 
-• Regras de negócios para Transportes e Fretes. 
-• Integrações de Sistemas com transportadoras. 
-• Integração com a Idwall.
+##### • Criação/manutenção de APIs (C#) .NET Core. 
+##### • Modelagem do Banco de Dados - SQL Server / Mongo DB. 
+##### • Regras de negócios para Transportes e Fretes. 
+##### • Integrações de Sistemas com transportadoras. 
+##### • Integração com a Idwall.
 
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | C# | .NET | .CORE | Git | GitHub | MongoDB | DevOps | Azure
 
@@ -59,14 +59,14 @@ Desenvolvedor Backend Pleno
 
 Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
 
-• Manutenção sistemas Web (BackOffice e Shipper). 
-• Criação/manutenção de APIs (C#). 
-• Modelagem do Banco de Dados - SQL Server / Mongo DB. 
-• Regras de negócios para Transportes e Fretes. 
-• Integrações de Sistemas com transportadoras. 
-• Integração com a Idwall. 
-• Processamentos de filas no Rabbit. 
-• Microserviços em .NET Core
+##### • Manutenção sistemas Web (BackOffice e Shipper). 
+##### • Criação/manutenção de APIs (C#). 
+##### • Modelagem do Banco de Dados - SQL Server / Mongo DB. 
+##### • Regras de negócios para Transportes e Fretes. 
+##### • Integrações de Sistemas com transportadoras. 
+##### • Integração com a Idwall. 
+##### • Processamentos de filas no Rabbit. 
+##### • Microserviços em .NET Core
 
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | C# | .NET | .CORE | Git | GitHub | MongoDB | DevOps | Azure
 
@@ -76,11 +76,11 @@ Desenvolvedor Backend Pleno
 
 Gerenciamento de Planos de Saúde.
 
-• Manutenção sistemas e módulos Qualitech. 
-• Criação/manutenção de Apis (node.js). 
-• Modelagem do Banco de Dados - SQL Server/ Oracle / Neo4J. 
-• Regras de negócios para Gestão de planos e Saúde, sistemas Jurídico. 
-• Trabalhar com serviços AWS
+##### • Manutenção sistemas e módulos Qualitech. 
+##### • Criação/manutenção de Apis (node.js). 
+##### • Modelagem do Banco de Dados - SQL Server/ Oracle / Neo4J. 
+##### • Regras de negócios para Gestão de planos e Saúde, sistemas Jurídico. 
+##### • Trabalhar com serviços AWS
 
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | Node.JS| Neo4J | Oracle | Git | GitHub | MongoDB | AWS S3 | .VUE
 
@@ -90,30 +90,27 @@ Desenvolvedor Backend Pleno
 
 Sistemas de gestão ERP, plataformas de comunicação e painéis BI para diversos segmentos, como shopping centers, marinas e aeroportos.
 
-• Manutenção ao software ERP Ease Controller.net.
-• Criação/manutenção de Relatórios - Crystal Reports.
-• Modelagem do Banco de Dados - SQL Server. 
-• Regras de negócios para Gestão de Shopping Centers. 
-• VB.NET (Interface Infragistics).
+##### • Manutenção ao software ERP Ease Controller.net.
+##### • Criação/manutenção de Relatórios - Crystal Reports.
+##### • Modelagem do Banco de Dados - SQL Server. 
+##### • Regras de negócios para Gestão de Shopping Centers. 
+##### • VB.NET (Interface Infragistics).
 
 #### Tecnologias Usadas: SQL SERVER | VB.NET | Crystal Reports.
 
-Grupo RAI – 06/2012 a 05/2018
+### Grupo RAI – 06/2012 a 05/2018
+### Desenvolvedor Backend
+### Agencia de Publicidade.
 
-Desenvolvedor Backend
-
-Agencia de Publicidade.
-
-• Desenvolver sites.
-• Desenvolver sistemas de customização de peças para clientes.
-• Desenvolvimento de Extranet.
-• Modelagem do Banco de Dados.
-• Regras de negócios.
-• Desenvolvimento de painel de controle. 
+##### • Desenvolver sites.
+##### • Desenvolver sistemas de customização de peças para clientes.
+##### • Desenvolvimento de Extranet.
+##### • Modelagem do Banco de Dados.
+##### • Regras de negócios.
+##### • Desenvolvimento de painel de controle. 
 
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | Java Script | ASP | ASP.NET | C# | Git | TFS | Ajax | BootStrap | MYSQL | MVC
 	
-
 
 # EDUCAÇÃO / FORMAÇÃO /CURSOS /  IDIOMAS
 
