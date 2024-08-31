@@ -12,8 +12,7 @@ Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clá
 ## EXPERIÊNCIA PROFISSIONAL
 
 ## Coris Brasil – 01/2023 a 07/2024 
- Desenvolvedor Backend Sênior - 
- Empresa no Ramo de Seguros Viagens.
+ Desenvolvedor Backend Sênior - Empresa no Ramo de Seguros Viagens.
 
 ##### • Manutenção sistemas Web ASP Clássico e C#. 
 ##### • Criação/manutenção de APIs (C#). 
@@ -26,8 +25,7 @@ Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clá
 #### Tecnologias Usadas: Docker | C#| ASP Classico | ASP.NET | NET.CORE | SQL Server | mongoBD | Git | Bootstrap | Scrum | TDD  | BDD | DDD | Service Bus | JIRA | DevOps
 
 ## Cast Group / SEBRAE – 08/2022 a 01/2023
- Desenvolvedor Backend
- Serviço Brasileiro de Apoio às Micro e Pequenas Empresas.
+ Desenvolvedor Backend - Serviço Brasileiro de Apoio às Micro e Pequenas Empresas.
 
 ##### • Manutenção sistemas Web VB.Net e C#.
 ##### • Modelagem do Banco de Dados - SQL Server.
@@ -37,8 +35,7 @@ Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clá
 #### Tecnologias Usadas: C#| VB | VB.NET | NET.CORE | SQL Server | Git Lab.
 
 ## Lógical Minds/Motz /Grupo Votorantin – 03/2022 a 08/2022
- Desenvolvedor Backend Pleno
- Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
+ Desenvolvedor Backend Pleno - Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
 
 ##### • Criação/manutenção de APIs (C#) .NET Core. 
 ##### • Modelagem do Banco de Dados - SQL Server / Mongo DB. 
@@ -49,8 +46,7 @@ Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clá
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | C# | .NET | .CORE | Git | GitHub | MongoDB | DevOps | Azure
 
 ## Lógical Minds/Freto /Endered – 02/2020 a 03/2022
- Desenvolvedor Backend Pleno
- Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
+ Desenvolvedor Backend Pleno - Transportadora digital que aproxima embarcadores, transportadores e caminhoneiros autônomos.
 
 ##### • Manutenção sistemas Web (BackOffice e Shipper). 
 ##### • Criação/manutenção de APIs (C#). 
@@ -64,8 +60,7 @@ Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clá
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | C# | .NET | .CORE | Git | GitHub | MongoDB | DevOps | Azure
 
 ## Talent Four/ Qualicorp – 02/2020 a 03/2022
-### Desenvolvedor Backend Pleno
-### Gerenciamento de Planos de Saúde.
+ Desenvolvedor Backend Pleno - Gerenciamento de Planos de Saúde.
 
 ##### • Manutenção sistemas e módulos Qualitech. 
 ##### • Criação/manutenção de Apis (node.js). 
@@ -76,8 +71,7 @@ Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clá
 #### Tecnologias Usadas: SQL SERVER | HTML | CSS | JS | Node.JS| Neo4J | Oracle | Git | GitHub | MongoDB | AWS S3 | .VUE
 
 ## Grupo Ease – 06/2018 a 03/2019
- Desenvolvedor Backend Pleno
- Sistemas de gestão ERP, plataformas de comunicação e painéis BI para diversos segmentos, como shopping centers, marinas e aeroportos.
+ Desenvolvedor Backend Pleno -  Sistemas de gestão ERP, plataformas de comunicação e painéis BI para diversos segmentos, como shopping centers, marinas e aeroportos.
 
 ##### • Manutenção ao software ERP Ease Controller.net.
 ##### • Criação/manutenção de Relatórios - Crystal Reports.
@@ -88,8 +82,7 @@ Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clá
 #### Tecnologias Usadas: SQL SERVER | VB.NET | Crystal Reports.
 
 ## Grupo RAI – 06/2012 a 05/2018
- Desenvolvedor Backend
- Agencia de Publicidade.
+ Desenvolvedor Backend - Agencia de Publicidade.
 
 ##### • Desenvolver sites.
 ##### • Desenvolver sistemas de customização de peças para clientes.
