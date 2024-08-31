@@ -12,7 +12,7 @@ Desde 2007 atuando com desenvolvimento Web, Back End na experiência em ASP Clá
 ## EXPERIÊNCIA PROFISSIONAL
 
 ## Coris Brasil – 01/2023 a 07/2024 
- Desenvolvedor Backend Sênior
+ Desenvolvedor Backend Sênior - 
  Empresa no Ramo de Seguros Viagens.
 
 ##### • Manutenção sistemas Web ASP Clássico e C#. 
