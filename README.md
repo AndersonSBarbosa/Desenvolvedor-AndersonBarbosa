@@ -98,7 +98,7 @@ Sistemas de gestão ERP, plataformas de comunicação e painéis BI para diverso
 
 #### Tecnologias Usadas: SQL SERVER | VB.NET | Crystal Reports.
 
-### Grupo RAI – 06/2012 a 05/2018
+## Grupo RAI – 06/2012 a 05/2018
 ### Desenvolvedor Backend
 ### Agencia de Publicidade.
 
